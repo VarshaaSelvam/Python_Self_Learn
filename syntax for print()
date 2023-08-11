@@ -1,0 +1,29 @@
+#syntax for print() function
+print (“string to be displayed as output” )
+#example for this syntax
+print("Hi Shree!") 
+
+
+print (variable )
+#example for this syntax
+a=20;
+b=20;
+c=a+b;
+print(c)
+
+
+print (“String to be displayed as output”,variable)
+#example for this syntax
+a="Shree";
+b="Varshaa";
+c=a+b;
+print("My name is",c)
+
+
+print (“String 1 ”, variable, “String 2”, variable, “String 3”
+#example for this syntax
+a="Shree";
+b="Varshaa"
+c="M S"
+print("First name is",a,"Mid name is",b,"Initial is",c)
+
